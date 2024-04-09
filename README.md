@@ -7,7 +7,7 @@ in this repository You will have access to:
 
 1.image processing code py file -> (tensor_flow_xray)
 
-2.deep learniing CNN code for detecting pnemunia -> (Deep learning model (CNN) for detecting pnemunia in chest X-ray)
+2.deep learning CNN code for detecting pnemunia -> (Deep learning model (CNN) for detecting pnemunia in chest X-ray)
 
 3.images before processing ->
 
