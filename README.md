@@ -11,6 +11,6 @@ in this repository You will have access to:
 
 4.images after processing ->
 
-5. Guide to running the code in this read me ->
+5.Guide to running the code in this read me
 
 
