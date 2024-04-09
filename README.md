@@ -8,7 +8,7 @@
 <p align="left">
 </p>
    
- <h4 align="center"> repository for  image processing course project </h4>
+ <h4 align="center"> Repository for image processing course project </h4>
 
 in this repository You will have access to: 
 
