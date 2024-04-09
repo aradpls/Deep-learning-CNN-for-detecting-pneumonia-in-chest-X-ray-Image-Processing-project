@@ -1,4 +1,6 @@
-# Deep-learning-CNN-for-detecting-pneumonia-in-chest-X-ray-Image-Processing-project
+<h5 align="center"> Deep-learning-CNN-for-detecting-pneumonia-in-chest-X-ray-Image-Processing-project </h5>
+<p align="left">
+</p>
 
 <h4 align="center">project by: Moria Gabay and Arad Peleg</h4>
 
