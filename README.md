@@ -1,10 +1,10 @@
-<h2 align="center">Deep-learning-CNN-for-detecting-pneumonia-in-chest-X-ray-Image-Processing-project </h2>
+<h1 align="center">Deep-learning-CNN-for-detecting-pneumonia-in-chest-X-ray-Image-Processing-project </h1>
 <p align="left">
 </p>
 
 <h4 align="center">project by: Moria Gabay and Arad Peleg</h4>
 
-<h1 align="center">Hi 👋, this is our deep learning CNN model + image Processing for the detection of pnemunia in chest x-rays </h1>
+<h2 align="center">Hi 👋, this is our deep learning CNN model + image Processing for the detection of pnemunia in chest x-rays </h2>
 <p align="left">
 </p>
    
