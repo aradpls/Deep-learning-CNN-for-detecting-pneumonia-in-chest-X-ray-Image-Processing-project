@@ -38,15 +38,19 @@ d.uplaod the zip file to google drive.
 e.uplad Deep learning model (CNN) for detecting pnemunia in chest X-ray note book to google collab.
 
 f. change runtime to T4 GPU:
+
 ![image](https://github.com/aradpls/Deep-learning-CNN-for-detecting-pneumonia-in-chest-X-ray-Image-Processing-project/assets/163511154/b43d4748-9198-477d-99c0-81c04fdaf530)
 
 g.conect ur drive to the note book:
+
 ![image](https://github.com/aradpls/Deep-learning-CNN-for-detecting-pneumonia-in-chest-X-ray-Image-Processing-project/assets/163511154/9c70b654-0085-4274-9475-5bee34d677b6)
 
 h.in this block ajust the paths for ur drive
+
 ![image](https://github.com/aradpls/Deep-learning-CNN-for-detecting-pneumonia-in-chest-X-ray-Image-Processing-project/assets/163511154/91f3ecb3-d434-4d14-92c6-60099fbd78b0)
 
 i. press run all 
+
 ![image](https://github.com/aradpls/Deep-learning-CNN-for-detecting-pneumonia-in-chest-X-ray-Image-Processing-project/assets/163511154/e193148a-d7ac-49cb-8d89-e7d188e3bd93)
 
 <h3 align="left">Languages and Tools:</h3>
