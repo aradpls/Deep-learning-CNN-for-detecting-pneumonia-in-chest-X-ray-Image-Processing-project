@@ -1,4 +1,4 @@
-<h5 align="center">Deep-learning-CNN-for-detecting-pneumonia-in-chest-X-ray-Image-Processing-project </h5>
+<h2 align="center">Deep-learning-CNN-for-detecting-pneumonia-in-chest-X-ray-Image-Processing-project </h2>
 <p align="left">
 </p>
 
