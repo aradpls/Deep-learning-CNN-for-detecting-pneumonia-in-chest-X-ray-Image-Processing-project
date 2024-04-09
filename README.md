@@ -1,5 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aradpls&label=Profile%20views&color=0e75b6&style=flat" alt="aradpls" /> </p>
-
 <h1 align="center">Deep-learning-CNN-for-detecting-pneumonia-in-chest-X-ray-Image-Processing-project </h1>
 <p align="left">
 </p>
@@ -26,7 +24,8 @@ In this repository You will have access to:
 
 <h2 align="left">Guide for runing the code</h2>
 
-a. You need to down load ChestXRay2017 (data) from this link for the orignial images: 
+a. You need to down load ChestXRay2017 (data) from this link for the orignial images:
+
 https://data.mendeley.com/datasets/rscbjbr9sj/2?__hstc=25856994.29e4ec1469fa40bcc3d958401a668b76.1706792526633.1706792526633.1706792526633.1&__hssc=25856994.1.1706792526633&__hsfp=176049148
 
 b. Down load the py file (image_processing_code_chest_xray) run the code on spyder (before you run make sure that paths match to ur computer).
