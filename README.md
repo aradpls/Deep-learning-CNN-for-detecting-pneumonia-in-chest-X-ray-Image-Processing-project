@@ -16,7 +16,7 @@ In this repository You will have access to:
 
 2.Deep learning CNN code for detecting pnemunia ->  <strong>Deep_learning_model_(CNN)_for_detecting_pnemunia_in_chest_X_ray_final</strong> 
 
-<strong>-> You can see the outputs on one run of our google collab notebook if you dont need to run it</strong>
+<strong>-> You can see the outputs on one run of our google collab notebook if you dont need/want to run it</strong>
 
 3.Images after processing -> <strong>ChestXrayoutput</strong>
 
