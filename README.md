@@ -26,7 +26,7 @@ In this repository You will have access to:
 
 <h2 align="left">Guide for runing the code</h2>
 
-a. You need to down load ChestXRay2017 (data) from this line for the orignial images: 
+a. You need to down load ChestXRay2017 (data) from this link for the orignial images: 
 https://data.mendeley.com/datasets/rscbjbr9sj/2?__hstc=25856994.29e4ec1469fa40bcc3d958401a668b76.1706792526633.1706792526633.1706792526633.1&__hssc=25856994.1.1706792526633&__hsfp=176049148
 
 b. Down load the py file (tensor_flow_xray) run the code on spyder (before you run make sure that paths match to ur computer).
