@@ -1,13 +1,13 @@
 # Deep-learning-CNN-for-detecting-pneumonia-in-chest-X-ray-Image-Processing-project
-repository for  image processing course project
 
 <h4 align="center">project by: Moria Gabay and Arad Peleg</h4>
-
 
 <h1 align="center">Hi 👋, this is our deep learning CNN model + image Processing for the detection of pnemunia in chest x-rays </h1>
 <p align="left">
 </p>
    
+repository for  image processing course project 
+
 in this repository You will have access to: 
 
 1.image processing code py file -> tensor_flow_xray
