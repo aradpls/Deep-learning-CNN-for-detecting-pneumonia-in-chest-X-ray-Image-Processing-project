@@ -1,9 +1,7 @@
 # Deep-learning-CNN-for-detecting-pneumonia-in-chest-X-ray-Image-Processing-project
 repository for  image processing course project
 
-Project By:
-
-Moria Gabay and Arad Peleg  
+Project By: Moria Gabay and Arad Peleg
 
 in this repository You will have access to: 
 
