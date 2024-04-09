@@ -12,15 +12,15 @@
 
 in this repository You will have access to: 
 
-1.image processing code py file -> tensor_flow_xray
+1.image processing code py file -> <strong>tensor_flow_xray</strong>
 
-2.deep learning CNN code for detecting pnemunia -> Deep learning model (CNN) for detecting pnemunia in chest X-ray 
+2.deep learning CNN code for detecting pnemunia ->  <strong>Deep learning model (CNN) for detecting pnemunia in chest X-ray</strong> 
 
--> you can see the outputs on one run of our google collab notebook if you dont need to run it
+<strong>-> You can see the outputs on one run of our google collab notebook if you dont need to run it</strong>
 
 3.images before processing -> 
 
-4.images after processing -> ChestXrayoutput
+4.images after processing -> <strong>ChestXrayoutput</strong>
 
 5.Guide to running the code in this read me
 
