@@ -14,7 +14,7 @@
 
 In this repository You will have access to: 
 
-1.Image processing code py file -> <strong>tensor_flow_xray</strong>
+1.Image processing code py file -> <strong>image_processing_code_chest_xray</strong>
 
 2.Deep learning CNN code for detecting pnemunia ->  <strong>Deep learning model (CNN) for detecting pnemunia in chest X-ray</strong> 
 
@@ -29,7 +29,7 @@ In this repository You will have access to:
 a. You need to down load ChestXRay2017 (data) from this link for the orignial images: 
 https://data.mendeley.com/datasets/rscbjbr9sj/2?__hstc=25856994.29e4ec1469fa40bcc3d958401a668b76.1706792526633.1706792526633.1706792526633.1&__hssc=25856994.1.1706792526633&__hsfp=176049148
 
-b. Down load the py file (tensor_flow_xray) run the code on spyder (before you run make sure that paths match to ur computer).
+b. Down load the py file (image_processing_code_chest_xray) run the code on spyder (before you run make sure that paths match to ur computer).
 
 c.Create a zip file with the outputed images (or you can down-load it from here for easy use and then zip it - ChestXrayoutput).
 
