@@ -4,7 +4,7 @@ repository for  image processing course project
 # project by: Moria Gabay and Arad Peleg</h1>
 
 
-<h1 align="center">Hi 👋, this is our deep learning CNN model for the detection of pnemunia in chest x-aray </h1>
+<h1 align="center">Hi 👋, this is our deep learning CNN model + image Processing for the detection of pnemunia in chest x-rays </h1>
 <p align="left">
 </p>
    
