@@ -16,7 +16,7 @@ In this repository You will have access to:
 
 1.Image processing code py file -> <strong>image_processing_code_chest_xray</strong>
 
-2.Deep learning CNN code for detecting pnemunia ->  <strong>Deep learning model (CNN) for detecting pnemunia in chest X-ray</strong> 
+2.Deep learning CNN code for detecting pnemunia ->  <strong>Deep_learning_model_(CNN)_for_detecting_pnemunia_in_chest_X_ray_final</strong> 
 
 <strong>-> You can see the outputs on one run of our google collab notebook if you dont need to run it</strong>
 
@@ -35,7 +35,11 @@ c.Create a zip file with the outputed images (or you can down-load it from here 
 
 d.Uplaod the zip file to google drive.
 
-e.Uplad Deep learning model (CNN) for detecting pnemunia in chest X-ray note book to google collab.
+e.Uplad Deep_learning_model_(CNN)_for_detecting_pnemunia_in_chest_X_ray_final note book to google collab.
+
+Or enter to this link:
+
+https://colab.research.google.com/drive/1XZm8sncxgOtH2KicvbikArkrrPE2zE7p?usp=sharing
 
 f. Change runtime to T4 GPU:
 
