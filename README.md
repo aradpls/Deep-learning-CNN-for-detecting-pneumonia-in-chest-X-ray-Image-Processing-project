@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aradpls&label=Profile%20views&color=0e75b6&style=flat" alt="aradpls" /> </p>
+
 <h1 align="center">Deep-learning-CNN-for-detecting-pneumonia-in-chest-X-ray-Image-Processing-project </h1>
 <p align="left">
 </p>
